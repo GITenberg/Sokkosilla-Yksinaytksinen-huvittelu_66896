@@ -1,11 +1,16 @@
 _repo: Sokkosilla-Yksinaytksinen-huvittelu_66896
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aaltio, Valto Edward
     gutenberg_agent_id: '54017'
     url: http://www.gutenberg.org/2009/agents/54017
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66896#Sokkosilla-Yksinaytksinen-huvittelu
 gutenberg_issued: '2021-12-07'
 identifiers:
   gutenberg: '66896'
